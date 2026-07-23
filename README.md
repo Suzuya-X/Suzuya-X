@@ -215,18 +215,6 @@ Designed and implemented zero-trust security architecture with micro-segmentatio
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Suzuya-X&theme=dark&hide_border=true&background=0d1117&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=dc143c&sideLabels=dc143c&dates=8b949e)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuya-X&theme=github_dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=8b949e)
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Suzuya-X&theme=darkhub&no-frame=true&row=1&column=7)
-
 </div>
 
 ---
