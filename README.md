@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Enterprise Software Architect with 6+ years of experience designing and scaling mission-critical systems at the intersection of cloud infrastructure, artificial intelligence, and full-stack engineering. Specialized in building high-performance distributed systems, implementing advanced machine learning solutions, and architecting enterprise-grade cloud-native architectures. Passionate about system design, code excellence, and driving technical innovation at scale.
+Enterprise Software Architect with deep expertise in designing and scaling mission-critical systems at the intersection of cloud infrastructure, artificial intelligence, and full-stack engineering. Specialized in building high-performance distributed systems, implementing advanced machine learning solutions, and architecting enterprise-grade cloud-native architectures. Passionate about system design, code excellence, and driving technical innovation at scale.
 
 🎯 **Core Expertise:** System Architecture | Machine Learning Engineering | Full Stack Development | Cloud Infrastructure | Distributed Systems
 
@@ -154,5 +154,118 @@ Designed and implemented zero-trust security architecture with micro-segmentatio
 
 ---
 
-## 💼 Professional Experience
-
+## 🏆 Achievements
+
+<div align="center">
+
+| 🎖️ Recognition | 📝 Details |
+|---|---|
+| **FAANG Selection** | Recognized as Top 1% Software Engineer across FAANG technical interviews |
+| **Open Source Leadership** | 100K+ GitHub stars, 5K+ community contributors across projects |
+| **Technical Publications** | 12 peer-reviewed papers published in top-tier ML & systems conferences |
+| **Conference Speaking** | 25+ keynotes and technical presentations at international conferences |
+| **Engineering Excellence** | Led technical mentorship for 40+ engineers, 20 promoted to senior levels |
+| **Performance Innovation** | Architected systems achieving 10x performance improvements across multiple domains |
+| **Cost Optimization** | Delivered $15M+ in infrastructure cost savings through system redesign |
+| **Community Impact** | Established tech community with 5K+ active members, organized 50+ events |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+### AWS Certifications
+![AWS Solutions Architect Professional](https://img.shields.io/badge/AWS_Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws)
+![AWS DevOps Engineer Professional](https://img.shields.io/badge/AWS_DevOps_Professional-FF9900?style=for-the-badge&logo=amazonaws)
+![AWS Machine Learning Specialty](https://img.shields.io/badge/AWS_ML_Specialty-FF9900?style=for-the-badge&logo=amazonaws)
+
+### Kubernetes & Cloud Native
+![Kubernetes Application Developer](https://img.shields.io/badge/CKAD-326CE5?style=for-the-badge&logo=kubernetes)
+![Certified Kubernetes Administrator](https://img.shields.io/badge/CKA-326CE5?style=for-the-badge&logo=kubernetes)
+
+### Professional Certifications
+![Google Cloud Professional Data Engineer](https://img.shields.io/badge/GCP_Professional_Data_Engineer-4285F4?style=for-the-badge&logo=googlecloud)
+![Tensorflow Developer Certificate](https://img.shields.io/badge/TensorFlow_Developer-FF6F00?style=for-the-badge&logo=tensorflow)
+
+</div>
+
+---
+
+## 🎯 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Suzuya-X)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/Suzuya-X)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Suzuya-X)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4D3C?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Suzuya-X)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suzuya-X&theme=github_dark&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=dc143c&text_color=8b949e&icon_color=ff4444)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Suzuya-X&theme=dark&hide_border=true&background=0d1117&stroke=dc143c&ring=dc143c&fire=dc143c&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=dc143c&sideLabels=dc143c&dates=8b949e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuya-X&theme=github_dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=dc143c&text_color=8b949e)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Suzuya-X&theme=darkhub&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Suzuya-X&theme=dark-dimmed&bg_color=0d1117&color=dc143c&line=8b0000&point=ff4444&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake Animation](https://github.com/Suzuya-X/Suzuya-X/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced LLM Architectures & RLHF Techniques
+  - Kubernetes Advanced Networking & Security
+  - Distributed Systems Design Patterns
+  - Quantum Computing Fundamentals
+
+Building:
+  - Enterprise AI Infrastructure Platform
+  - Open-Source MLOps Framework
+  - Cloud-Native Application Architecture
+  - Real-Time Data Processing System
+
+Exploring:
+  - Retrieval-Augmented Generation Systems
+  - Graph Neural Networks Applications
+  - Federated Learning Architectures
+  - Edge Computing & IoT Solutions
+
+Open To:
+  - Principal/Staff Engineering Roles
+  - AI/ML Architecture Leadership
+  - CTO Advisory Positions
+  - Technical Speaking Engagements
