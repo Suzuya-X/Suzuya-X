@@ -21,7 +21,12 @@
 
 ## 👨‍💻 About Me
 
-Senior Full Stack Engineer with 5+ years of experience architecting scalable systems, building AI/ML solutions, and leading cross-functional engineering teams. Specialized in designing enterprise-grade applications, cloud infrastructure, and intelligent systems. Passionate about solving complex problems, mentoring engineers, and contributing to open-source communities.
+## 👨‍💻 About Me
+
+Driven by curiosity and a passion for engineering, I'm focused on mastering the art of building intelligent, scalable, and reliable software systems. My interests lie at the intersection of software engineering, artificial intelligence, backend architecture, and product development.
+
+I enjoy tackling complex problems, learning emerging technologies, and turning ideas into practical solutions. With every project and every line of code, I'm working toward becoming an AI engineer capable of building products that create lasting impact. I value discipline over motivation, continuous improvement over quick wins, and believe that exceptional software is built on strong fundamentals.
+
 
 🎯 **Expertise:** Full Stack Development | Machine Learning | Cloud Architecture | System Design | Product Engineering
 
@@ -72,7 +77,7 @@ Senior Full Stack Engineer with 5+ years of experience architecting scalable sys
 | **LLM & Generative AI** | Expert | Fine-tuning, Prompt Engineering, RAG Systems, LangChain |
 | **Computer Vision** | Advanced | Image Classification, Object Detection, OCR, YOLO |
 | **Natural Language Processing** | Advanced | NER, Sentiment Analysis, Text Classification, Transformers |
-| **Machine Learning Engineering** | Expert | Model Optimization, MLOps, A/B Testing, Feature Engineering |
+| **Machine Learning Engineering** | Advanced | Model Optimization, MLOps, A/B Testing, Feature Engineering |
 | **Deep Learning** | Advanced | TensorFlow, PyTorch, CNN, RNN, Attention Mechanisms |
 | **Data Engineering** | Advanced | ETL Pipelines, Data Warehousing, Apache Spark, dbt |
 
