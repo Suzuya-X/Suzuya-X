@@ -21,8 +21,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 Driven by curiosity and a passion for engineering, I'm focused on mastering the art of building intelligent, scalable, and reliable software systems. My interests lie at the intersection of software engineering, artificial intelligence, backend architecture, and product development.
 
 I enjoy tackling complex problems, learning emerging technologies, and turning ideas into practical solutions. With every project and every line of code, I'm working toward becoming an AI engineer capable of building products that create lasting impact. I value discipline over motivation, continuous improvement over quick wins, and believe that exceptional software is built on strong fundamentals.
